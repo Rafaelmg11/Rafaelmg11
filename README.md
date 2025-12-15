@@ -17,4 +17,4 @@ Técnico em Desenvolvimento de Sistemas formado, curioso por tecnologia e focado
 ---
 
 ## 📊 Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafaelmg11&show_icons=true)
