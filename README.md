@@ -17,7 +17,3 @@ Técnico em Desenvolvimento de Sistemas formado, movido pela curiosidade e pelo 
 - Projetos de Software  
 - Automação e IoT  
 - Banco de Dados  
----
-## 📊 Estatísticas GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelmg11&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=Rafaelmg11)
