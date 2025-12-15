@@ -14,6 +14,5 @@ Técnico em Desenvolvimento de Sistemas formado, movido pela curiosidade e pelo 
 ## 🌐 Áreas de Interesse
 - Desenvolvimento de Sistemas  
 - Implantação e Manutenção de Sistemas  
-- Projetos de Software  
 - Automação e IoT  
 - Banco de Dados  
