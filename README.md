@@ -2,7 +2,7 @@
 
 **Desenvolvimento de Sistemas | Implantação | Projetos**
 
-Técnico em Desenvolvimento de Sistemas formado, curioso por tecnologia e focado em desenvolvimento, implantação e criação de projetos.
+Técnico em Desenvolvimento de Sistemas formado, guiado pela curiosidade e pelo desejo constante de aprender, evoluir e crescer na área de tecnologia, atuando no desenvolvimento, implantação e construção de projetos que transformam ideias em soluções.
 
 ---
 
