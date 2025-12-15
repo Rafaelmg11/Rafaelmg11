@@ -1,4 +1,4 @@
-# 👨‍💻 Rafael de Almeida Magalhães
+# Rafael de Almeida Magalhães
 
 **Desenvolvimento de Sistemas | Implantação | Projetos**
 
